@@ -4,3 +4,4 @@
 - `download` attribute. The browser should download the resource the anchor points to rather than navigate to it.
 - Ruby `Module#prepend` vs `alias_method_chain`
 - Ruby method transplantation with `Foo.instance_method(:boo)`
+- In IRB the use of the underscore variable _ will hold the evaluation of the last line of code executed.
